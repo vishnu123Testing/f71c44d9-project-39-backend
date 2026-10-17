@@ -1,0 +1,1 @@
+"""Forecasting domain service package."""
